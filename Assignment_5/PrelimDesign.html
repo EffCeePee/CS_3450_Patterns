@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<!-- This page is used to describe the project that I will be working on for the web development course. 
+Requirements:
+1.  Anupdate to the design, using the assignment 3 description working towards the MVC model
+
+-->
+<html>
+<head>
+    <title>Preliminary Project Design</title>
+</head>
+
+<body>
+<div title = "design">
+<h1>Project Design </h1>
+<p>
+This page is dedicated to laying out the secondary design of the project.
+This is not intended to be a final design but an initial idea on how the game will be laid out and played.
+
+
+<h3><u>Constants:</u> (in JavaScript these are just unchanging variables)</h3>
+
+<strong>BEGINNER_SIZE:</strong>  The size of the grid for a beginner game. This will be set from the selected player level<br>
+<strong>INTERMEDIATE_SIZE:</strong>  The size of the grid for an intermediate game. This will be set from the selected player level<br>
+<strong>ADVANCED_SIZE:</strong> The size of an advanced game. This will be set from the selected player level<br>
+<strong>BEGINNER_BOMB_COUNT:</strong> The maximum number of bombs for a beginner game.<br>
+<strong>INTERMEDIATE_BOMB_COUNT:</strong> The maximum number of bombs for a intermediate game.<br>
+<strong>ADVANCED_BOMB_COUNT:</strong> The maximum number of bombs for a advanced game.<br>
+
+<h3><u>Objects:</u></h3>
+
+<strong>2Dimentioal Array</strong> 
+<br>A square will have a <strong>_bomb,</strong>  <strong>_adjacentBombs</strong>  and a <strong>_flaged</strong> property.<br>
+
+<ul>
+<li> <strong>_bomb</strong>: boolean property to determine if it holds a or not.  </li>
+<li> <strong>_adjacentBombs</strong>: if there is not a bomb  it will hold the number of adjacent bombs</li>
+<li> <strong>_flagged</strong>: tells if the sqare has been marked by a flag </li>
+</ul>
+
+<br> 2D Array object example: <br>
+_gameArray[i][j] = "true" (is a bomb);<br />
+_gameArray[i][j] = "adjacent" (is the adjacent bomb count);<br />
+_gameArray[i][j] = "flag" (this will hold a flag)<br />
+<br>
+<hr>
+<strong>Bomb</strong>
+<br> A Game will have a _bombCount property. <br>
+
+<ul>
+<li> <strong> _bombCount </strong>: This will count the number of bombs flagged. <br>
+
+</ul>
+
+<br> Game object example: <br>
+{"_bombCount" :  20} <br>
+
+<br>
+<hr>
+<strong>Clock</strong>
+<br> A Game will have a _timeCount property. <br>
+
+<ul>
+    <li> <strong> _timeCount </strong>: This will count the time that a player uses to solve the puzzle. <br>
+
+</ul>
+
+<br> Game object example: <br>
+{"_timeCount" :  20} <br>
+
+<br>
+<hr>
+<strong>Difficulty</strong>
+The Difficulty object will have <strong> _beginner, _intermdiate_,</strong> and <strong>_advanced </strong> properties.
+
+<ul>
+<li><strong>_beginner</strong>: a integer value that will be used when calling the difficulty function
+when the game is being set up.</li>
+<li><strong>_intermdiate_</strong>: a integer value that will be used when calling the difficulty function
+when the game is being set up.</li>
+<li><strong>_advanced</strong>: a integer value that will be used when calling the difficulty function
+when the game is being set up.</li>
+</ul>
+
+
+<br>
+<hr>
+
+<h3><u>Functions / Model:</u></h3>
+
+The model for this game will use the functions listed below:  Upon the page loading a beginner game will be set up.  
+If the user chooses a different game level, then the page will update to that level, using the setLevel Function.
+The gameController function will be called, which sets the bombs and adjacent square numbers. 
+The time function will start, and the game is ready for the user to play.
+
+As the user sets flags, the bomb count will go down and the square will be replaced with a flag, and will only be able to have a flag removed
+this will all be done with the setFlags function.
+
+When the flags match the bombs as called by the winner function, the game will end. 
+
+<I>setLevel(_BEGINNER_SIZE)</I>: This will be used to deterimine the size of the grid.
+<br>
+    <br />
+<i>gameController(_gridSize)</i>: This will be used to set the bombs, and determine the number to be placed in the 
+   adjacent squares.
+    <br />
+<br />
+<I>setFlags(_gameArray)</I>: This will be called when a player right clicks and places a flag or removes a flag.
+ <br />
+    <br />
+<I>clockCount()</I>: this function will be a counter that tells how much time it has taken to complete the game.
+<br>
+    <br />
+<I>bombCount(_flagCount)</I>: this function will show how many bombs have not been flagged.
+<br><br>
+
+<I>createGrid(_gridSize, _gameArray)</I>: this function will produce the HTML for the game.
+
+<br /><br />
+<i>winner()</i>: the winner function will be called when the flag count is equal to the bomb count.  If the flags match the bombs the clock and game will stop.
+
+
+<h3><u>Notes:</u></h3>
+<ol>
+<li>This is a secondary design and does not list all of the variables that will be used.  </li>
+<li>There will also be other objects added or removed at a later time </li>
+<li>There will be more functions added later </li>
+<li>This does not explain any of the graphical or visual layouts </li>
+</ol>
+
+</p>
+
+
+
+</div>
+</body>
+
+</html>

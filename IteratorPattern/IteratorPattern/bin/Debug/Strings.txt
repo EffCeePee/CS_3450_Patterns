@@ -1,0 +1,11 @@
+I have a string
+This is a string
+this is a 3
+this is a 1
+this is also a one
+but I don't
+know if this 
+will work or not
+cause this is a test file
+and I want to 
+see if it will work 

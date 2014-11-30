@@ -1,0 +1,9 @@
+C:\Users\F\OneDrive\School\CS3450 Patterns\Design Puzzle\Design Puzzle\bin\Debug\Design Puzzle.exe.config
+C:\Users\F\OneDrive\School\CS3450 Patterns\Design Puzzle\Design Puzzle\obj\Debug\Design Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\F\OneDrive\School\CS3450 Patterns\Design Puzzle\Design Puzzle\bin\Debug\Design Puzzle.exe
+C:\Users\F\OneDrive\School\CS3450 Patterns\Design Puzzle\Design Puzzle\bin\Debug\Design Puzzle.pdb
+C:\Users\F\OneDrive\School\CS3450 Patterns\Design Puzzle\Design Puzzle\obj\Debug\Design Puzzle.exe
+C:\Users\F\OneDrive\School\CS3450 Patterns\Design Puzzle\Design Puzzle\obj\Debug\Design Puzzle.pdb
+C:\Users\F\OneDrive\School\CS3450Patterns\Design Puzzle\Design Puzzle\bin\Debug\Design Puzzle.exe.config
+C:\Users\F\OneDrive\School\CS3450Patterns\Design Puzzle\Design Puzzle\obj\Debug\Design Puzzle.exe
+C:\Users\F\OneDrive\School\CS3450Patterns\Design Puzzle\Design Puzzle\obj\Debug\Design Puzzle.pdb

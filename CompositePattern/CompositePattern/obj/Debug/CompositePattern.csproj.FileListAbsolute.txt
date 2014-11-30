@@ -1,0 +1,6 @@
+C:\Users\F\OneDrive\School\CS3450Patterns\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\F\OneDrive\School\CS3450Patterns\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\F\OneDrive\School\CS3450Patterns\CompositePattern\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\F\OneDrive\School\CS3450Patterns\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+C:\Users\F\OneDrive\School\CS3450Patterns\CompositePattern\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\F\OneDrive\School\CS3450Patterns\CompositePattern\CompositePattern\obj\Debug\CompositePattern.pdb

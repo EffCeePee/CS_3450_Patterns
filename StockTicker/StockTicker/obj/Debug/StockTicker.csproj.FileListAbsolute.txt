@@ -1,0 +1,7 @@
+C:\Users\F\OneDrive\School\CS3450 Patterns\StockTicker\StockTicker\bin\Debug\StockTicker.exe.config
+C:\Users\F\OneDrive\School\CS3450Patterns\StockTicker\StockTicker\bin\Debug\StockTicker.exe.config
+C:\Users\F\OneDrive\School\CS3450Patterns\StockTicker\StockTicker\bin\Debug\StockTicker.exe
+C:\Users\F\OneDrive\School\CS3450Patterns\StockTicker\StockTicker\bin\Debug\StockTicker.pdb
+C:\Users\F\OneDrive\School\CS3450Patterns\StockTicker\StockTicker\obj\Debug\StockTicker.csprojResolveAssemblyReference.cache
+C:\Users\F\OneDrive\School\CS3450Patterns\StockTicker\StockTicker\obj\Debug\StockTicker.exe
+C:\Users\F\OneDrive\School\CS3450Patterns\StockTicker\StockTicker\obj\Debug\StockTicker.pdb

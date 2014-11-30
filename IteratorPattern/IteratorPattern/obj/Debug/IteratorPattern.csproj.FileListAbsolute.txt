@@ -1,0 +1,6 @@
+C:\Users\F\OneDrive\School\CS3450Patterns\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\F\OneDrive\School\CS3450Patterns\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\F\OneDrive\School\CS3450Patterns\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\F\OneDrive\School\CS3450Patterns\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\F\OneDrive\School\CS3450Patterns\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\F\OneDrive\School\CS3450Patterns\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb

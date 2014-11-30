@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!-- This page is used to describe the project that I will be working on for the web development course. 
+Requirements: http://universe.tc.uvu.edu/cs2550/project/a5.html
+  15 Log-in text fields and button, password field does not show characters
+  20 Displays a message on the log-in page if user name and password are not correct
+  30 Uses Ajax to validate log-in and displays the game page if the log-in is correct
+  25 Stores log-in info in local storage and displays the user name and timestamp on the game page
+  10 Button to clear local storage on the game page
+
+-->
+<html>
+<head>
+    <title>Project Description Page</title>
+	<link rel="stylesheet" href="Style.css">
+    <script src="minesweeper.js"></script>
+</head>
+<body>
+
+<div title = "Description">
+<h1><img src="Minesweeper_Icon.png" width="100" height="90"> Minesweeper Project <img src="Minesweeper_Icon.png" width="100" height="90"></h1>
+
+<h2>Project Description</h2>
+    <p class="standard">
+        For this course I will be creating code for the minesweeper game.
+        This will be a web based application written using code from HTML, CSS, and JavaScript.
+    </p>
+
+
+<h3>How to play</h3>
+<p class="standard">Minesweeper is a game where the player searches for bombs in a grid and marks them with flags.
+  If the player clicks on a square with a bomb then the game is over.  
+  The player wins the game by identifying all of the bombs in grid without clicking on a bomb square and setting it off.
+  A player can identify the bombs by right clicking and placing a flag in the square.  
+  This will prevent the player from accidentally setting the bomb off.</p>
+
+    <p class="standard">For more information on minesweeper read this <a href="http://en.wikipedia.org/wiki/Minesweeper_%28video_game%29" target="_blank">Wikipedia Article </a></p>
+
+
+ <h3>Game</h3>
+    <p class="standard">
+        Log in to <a href="ProgramGrid.html">Play Minesweeper</a>
+        <br /> User name: <input type="text" class="input" id="UserName" />
+        <br /> Password : <input type="password" class="input" id="Password" />
+        <br /><input type="button" value="Log in" onclick="validate()" class="button" />
+    </p>
+
+    <span class="validate" id="validated"> </span>
+
+<h3> Preliminary Design </h3>
+    <p class="standard">
+        Click here to learn about the<a href="PrelimDesign.html" target="_blank"> preliminary design. </a></h2>
+
+
+        <h5> photos are provided by Microsoft </h5>
+
+</div>
+
+
+</body>
+</html>

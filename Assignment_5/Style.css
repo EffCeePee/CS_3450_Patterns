@@ -1,0 +1,119 @@
+body {
+   	font-family: Times New Roman;
+   	font-size: 16px;
+   	color: black;
+   	background-color:  #cce5ff;
+    	margin: 20px;
+    	padding: 0;
+}
+
+
+h1 {
+    	color: yellow;
+    	background-color: maroon;
+   	 font-size: 28pt;
+   	 margin-bottom: 7px;
+	padding-left: 5px;
+	text-align: center;
+    	border-bottom-style: solid;
+   	 border-bottom-width: 20px;
+    	border-bottom-color: black;
+}
+
+table{
+	border-collapse: collapse;
+	margin-left: 40%;
+	position: relative;
+	padding-top: 25px;
+}
+
+td.something{
+	text-align:  center;
+	color: red;
+	font-weight: bold;
+	border: 2px solid black;
+	font-size: 10px;
+	height: 16px;
+	width: 16px;
+	background-color: #F2F2F2;
+	
+}
+td.clicked{
+	text-align:  center;
+
+	font-weight: bold;
+	border: 2px solid black;
+	font-size: 20px;
+	height: 20px;
+	width: 20px;
+	
+
+}
+td.bomb{
+	text-align:  center;
+	color: blue;
+	font-weight: bold;
+	border: 2px solid black;
+	height: 50px;
+	width: 50px;
+	background-color: yellow;
+}
+
+textarea{
+
+	width: 300px;
+	height: 100%;
+	position: relative;
+	margin-left: 40%;
+	
+    	
+
+}
+
+
+div.store{
+	margin-left: 40%;
+}
+
+p{
+	margin-left: 40%;
+}
+
+form{ 
+	margin-left: 40%;
+
+}
+
+p.standard{
+	margin-left: 0%;
+}
+
+button{
+	position: relative;
+	margin-left: 40%;
+}
+div{
+	padding-top: 15px;
+}
+
+#carDiv{
+	position: relative;
+	bottom: 0;
+	left: 0;
+	height 100%;
+}
+
+#carimg{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height 100%;
+}
+
+span.validate{
+	background-color: red;
+	color: white;
+	
+}
+
+

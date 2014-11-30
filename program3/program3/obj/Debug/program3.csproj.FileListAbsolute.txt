@@ -1,0 +1,6 @@
+C:\Users\F\OneDrive\School\CS3450 Patterns\program3\program3\bin\Debug\program3.exe.config
+C:\Users\F\OneDrive\School\CS3450 Patterns\program3\program3\bin\Debug\program3.exe
+C:\Users\F\OneDrive\School\CS3450 Patterns\program3\program3\bin\Debug\program3.pdb
+C:\Users\F\OneDrive\School\CS3450 Patterns\program3\program3\obj\Debug\program3.csprojResolveAssemblyReference.cache
+C:\Users\F\OneDrive\School\CS3450 Patterns\program3\program3\obj\Debug\program3.exe
+C:\Users\F\OneDrive\School\CS3450 Patterns\program3\program3\obj\Debug\program3.pdb

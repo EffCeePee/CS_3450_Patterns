@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- This page is used to describe the project that I will be working on for the web development course. 
+Requirements:
+1.  An HTML table showing a grid mock up of the minesweeper game
+2. Write JavaScript code that generates the HTML table by creating a string or using the createElement function.
+3.  Use CSS do style the grid in a pattern
+ 
+
+-->
+
+<html>
+   
+    <head>
+        <title>Minesweeper Game</title>
+        <link rel="stylesheet" href="Style.css">
+        <script src = "minesweeper.js"></script>
+    </head>
+
+
+    <body onload = "getGrid()">
+        
+        <h1> MINESWEEPER </h1>
+        
+        <!--  *** Assignment 5 ****   -->
+
+        <div id="localStore" class="store"></div>
+        
+        <!--  **********   -->
+
+        <br />
+
+        <p>Click on a cell to begin the game.</p>
+
+        
+        <form id = "gameLevel" action="" onclick="getGrid()">
+            <input type="radio" name="level" value="9" checked> Beginner
+            <input type="radio" name="level" value="15"> Intermediate
+            <input type="radio" name="level" value="21"> Advanced
+        </form>
+
+
+
+
+        <div id="gameGrid"></div>
+
+        <!--  *** Assignment 4 ****
+            <div id="coordiantes"></div>
+
+        
+            <div id="animantion"> </div>
+
+            <div id="cardiv"> <img id ="carimg" src = "car1.png" /></div>  
+        -->
+
+    </body>
+</html>
