@@ -1,0 +1,6 @@
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Iterator\Iterator\obj\Debug\Iterator.pdb

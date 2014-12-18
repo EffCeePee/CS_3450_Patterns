@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2014-10-30T00:05:41" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '4d0a609c-39f4-4296-bae7-5c0bd5f87771' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '64e03136-85d4-4089-9806-c7fa15ae39e3' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'bf2dee55-99f9-4369-b60c-23b512943148' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command' -  (Package)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand' -  (Class)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::AddCommand' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::AddCommand::db' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::AddCommand::key' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::AddCommand::value' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::db' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::execute' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::key' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::success' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::undo' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::AddCommand::value' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand' -  (Class)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand::_dest' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand::BackupCommand' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand::BackupCommand::_dest' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand::BackupCommand::db' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand::db' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand::execute' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand::success' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::BackupCommand::undo' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::CmdListInvoker' -  (Class)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::CmdListInvoker::_cmd' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::CmdListInvoker::CmdListInvoker' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::CmdListInvoker::CmdListInvoker::_cmd' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::CmdListInvoker::doCommand' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::CmdListInvoker::success' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::CmdListInvoker::undo' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database' -  (Class)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::_dic' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::add' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::add::k' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::add::v' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::backup' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::backup::_dest' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::countupdates' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::Database' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::Database::id' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::getDic' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::getID' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::getVal' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::getVal::k' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::id' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::key' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::remove' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::remove::k' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::success' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::undoUpdate' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::undoUpdate::k' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::undoUpdates' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::update' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::update::k' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::update::v' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Database::value' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::helper' -  (Class)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::helper::getCurrent' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::helper::getCurrent::_cdb' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::helper::getCurrent::_DBS' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::helper::getCurrent::_id' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::helper::getCurrent::_info' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::helper::helper' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::ICommand' -  (Interface)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::ICommand::execute' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::ICommand::undo' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Program' -  (Class)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Program::Main' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Program::Main::args' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Program::Program' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers' -  (Interface)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::add' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::add::key' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::add::value' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::backup' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::backup::dest' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::getDic' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::getVal' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::getVal::Key' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::remove' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::remove::key' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::undoUpdate' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::undoUpdate::key' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::update' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::update::key' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::Recievers::update::value' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand' -  (Class)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::db' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::execute' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::key' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::RemoveCommand' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::RemoveCommand::db' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::RemoveCommand::key' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::success' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::undo' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::RemoveCommand::value' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand' -  (Class)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::db' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::execute' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::key' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::success' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::undo' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::UpdateCommand' -  (Operation)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::UpdateCommand::db' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::UpdateCommand::key' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::UpdateCommand::value' -  (Parameter)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Command::UpdateCommand::value' -  (Property)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections' -  (Package)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::Dictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::Dictionary&lt;String‎, String‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List&lt;Database‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::Command::AddCommand to ModelingProject1::Command::ICommand (InterfaceRealization)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::Command::BackupCommand to ModelingProject1::Command::ICommand (InterfaceRealization)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::Command::Database to ModelingProject1::Command::Recievers (InterfaceRealization)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::Command::RemoveCommand to ModelingProject1::Command::ICommand (InterfaceRealization)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::Command::UpdateCommand to ModelingProject1::Command::ICommand (InterfaceRealization)" />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="High" Text="(10) type(s) fully reverse engineered." />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="High" Text="(4) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2014-10-30T00:05:48" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

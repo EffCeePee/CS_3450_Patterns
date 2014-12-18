@@ -1,0 +1,12 @@
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\bin\Debug\Ticker.exe.config
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\bin\Debug\Ticker.exe
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\bin\Debug\Ticker.pdb
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\obj\Debug\Ticker.csprojResolveAssemblyReference.cache
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\obj\Debug\Ticker.exe
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\obj\Debug\Ticker.pdb
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\bin\Debug\Ticker.exe.config
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\obj\Debug\Ticker.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\obj\Debug\Ticker.pdb
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\bin\Debug\Ticker.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\bin\Debug\Ticker.pdb
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Ticker\Ticker\obj\Debug\Ticker.csprojResolveAssemblyReference.cache

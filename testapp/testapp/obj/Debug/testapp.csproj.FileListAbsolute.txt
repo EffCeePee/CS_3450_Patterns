@@ -1,0 +1,5 @@
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\testapp\testapp\bin\Debug\testapp.exe.config
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\testapp\testapp\bin\Debug\testapp.exe
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\testapp\testapp\bin\Debug\testapp.pdb
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\testapp\testapp\obj\Debug\testapp.exe
+C:\Users\colton.parry\Documents\Docu\School\2014 Fall\CS3450 Patterns\testapp\testapp\obj\Debug\testapp.pdb

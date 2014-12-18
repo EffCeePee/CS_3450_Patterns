@@ -1,0 +1,6 @@
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb

@@ -1,0 +1,10 @@
+A one key1 value1
+A two key4 value four
+A three key1 value smurf
+A two key1 value2 
+A one key2 value2
+A two key2 value five
+R one key1 value1
+R three key1 
+A three key4 my butt hurts
+R seven key1 

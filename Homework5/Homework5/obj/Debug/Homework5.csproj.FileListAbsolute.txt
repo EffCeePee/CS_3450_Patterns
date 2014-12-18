@@ -1,0 +1,6 @@
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Homework5\Homework5\bin\Debug\Homework5.exe.config
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Homework5\Homework5\obj\Debug\Homework5.csprojResolveAssemblyReference.cache
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Homework5\Homework5\bin\Debug\Homework5.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Homework5\Homework5\bin\Debug\Homework5.pdb
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Homework5\Homework5\obj\Debug\Homework5.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\Homework5\Homework5\obj\Debug\Homework5.pdb

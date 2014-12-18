@@ -1,0 +1,6 @@
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\colton.parry\Documents\School\2014 Fall\CS3450 Patterns\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
